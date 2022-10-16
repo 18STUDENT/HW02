@@ -37,7 +37,7 @@ img {
 	font-size: 14px;
 	font-weight: bold;
 	height: 35px;
-	line-height: 30px;
+	line-height: 35px;
 	width: 170px;
 	padding: 1px 0;
 	text-align: center;
@@ -139,7 +139,7 @@ img {
 }
 #contents h4 {
 	font-size: 16px;
-	line-height: 18px;
+	line-height: 24px;
 	margin: 0 0 12px;
 	text-transform: uppercase;
 }
